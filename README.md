@@ -18,7 +18,7 @@
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denilsonsobreira&show_icons=true&theme=dracula&locale=en&layout=compact" alt="denilsonsobreira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denilsonsobreira&show_icons=true&theme=dracula&locale=en" alt="denilsonsobreira" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=denilsonsobreira&show_icons=true&theme=dracula&locale=en" alt="denilsonsobreira" /></p>
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denilsonsobreira&theme=dark" alt="denilsonsobreira" /></p> -->
